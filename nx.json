@@ -22,5 +22,7 @@
     "production": [
       "default"
     ]
-  }
+  },
+  "nxCloudId": "672ce2c4d29728aad982a087",
+  "nxCloudUrl": "https://staging.nx.app"
 }
